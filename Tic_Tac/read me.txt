@@ -1,0 +1,1 @@
+I run all these products only in localhost. The environment is Xampp.
